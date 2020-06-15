@@ -1,5 +1,5 @@
 # Deploy to Amplify Console Button
-[![amplifybutton](https://oneclick.amplifyapp.com/button.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/4hiroramos/shifterheadless-gridsome-aws-amplify)
+[![amplifybutton](https://oneclick.amplifyapp.com/button.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/4hiroramos/shifterheadless-gridsome-aws-amplify.git)
 
 # WordPress starter for Gridsome
 
